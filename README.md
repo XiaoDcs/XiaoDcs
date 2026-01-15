@@ -1,2 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XiaoDcs&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoDcs&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-beta-mauve-21.vercel.app/api?username=XiaoDcs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-beta-mauve-21.vercel.app/api/top-langs/?username=XiaoDcs&layout=compact&langs_count=8&card_width=320" />
+</a>
