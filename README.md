@@ -1,0 +1,2 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XiaoDcs&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoDcs&layout=compact)
